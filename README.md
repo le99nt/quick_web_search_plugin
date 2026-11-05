@@ -1,0 +1,1 @@
+# quick_web_search_plugin
